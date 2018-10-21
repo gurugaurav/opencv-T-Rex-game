@@ -1,4 +1,4 @@
-# Opencv-T-Rex-game
+# OpenCV-T-Rex-game
 
 
 Play Chrome T-Rex game using Opencv.
